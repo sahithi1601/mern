@@ -1,0 +1,41 @@
+//declaring variables and assigning values
+var Name = "SAHITHI";
+console.log("my Name : " + Name);
+console.log(`datatype of Name: ${typeof Name}`);//data types of the variables
+let age = 20;
+console.log("my Age : " + age);
+console.log(`datatype of Age: ${typeof age}`);
+const student = true;
+console.log("Im a student : " + student);
+console.log(`datatype of student: ${typeof student}`);
+var City = "ONGOLE";
+console.log("my City : " + City);
+console.log(`datatype of City: ${typeof City}`);
+var value = "NULL";
+console.log("value : " + value);
+console.log(`datatype of value: ${typeof value}`);
+var balance = 
+console.log("my balance : " + balance);
+console.log(`datatype of balance: ${typeof balance}`);
+
+var pi = 3.14159;
+console.log(" pi : " + pi);
+console.log(`datatype of pi: ${typeof pi}`);
+
+var string = "Hello World";
+console.log(" Greeting : " + string);
+console.log(`datatype of string: ${typeof string}`);
+
+var isSunny= true;
+console.log(" is Sunny : " + isSunny);
+console.log(`datatype of is Sunny: ${typeof isSunny}`);
+
+var num = " 5 ";
+console.log(" FavoriteNumber : " + num);
+console.log(`datatype of num: ${typeof num}`);
+ 
+var mixedvalue = " saf34dw ";
+console.log(" mixed value : " + mixedvalue);
+console.log(`datatype of mixedvalue: ${typeof mixedvalue}`);
+
+
